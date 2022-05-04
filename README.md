@@ -1,12 +1,13 @@
 # python
 THIS REPOSITORY IS CREATED TO STORE MY PYTHON PROJECTS & IDEAS.
 
+#1
 #input function
 a=input('enter 1st number')
 b=input('enter 2nd number')
 print ('sum =',a+b)
 
-
+#2
 a = 5
 b = 10
 print (a,b)
