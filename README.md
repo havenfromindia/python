@@ -18,3 +18,15 @@ b = a - b
 a = a - b
 print (a,b)
 #(10,5)
+
+#3
+#even number finding system
+use = input('to check whether the number is odd/even : ')
+if use % 2 == 1:
+    print ( use,' is odd')
+if use % 2 == 0:
+    print (use,'is even')
+#to check whether the number is odd/even : 6
+#(6, 'is even')
+
+
