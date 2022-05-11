@@ -1,6 +1,7 @@
 # python
 THIS REPOSITORY IS CREATED TO STORE MY PYTHON PROJECTS & IDEAS.
 
+#to print
 #cody banks banks banks banks banks
 #cody banks banks banks banks banks
 #etc
@@ -20,7 +21,7 @@ while j <= 5:
 #cody
 #cody
 
-# ***********************----IMPROVED------*******************************************
+#***********************----IMPROVED------*******************************************
 
 #moved x = 1  
 j = 1
